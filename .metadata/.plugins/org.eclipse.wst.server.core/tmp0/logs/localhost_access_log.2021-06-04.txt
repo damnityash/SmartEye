@@ -1,0 +1,15 @@
+127.0.0.1 - - [04/Jun/2021:17:23:45 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:23:48 +0530] "GET /AntiPhishingWeb/pages/index.jsp HTTP/1.1" 200 3439
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:23:48 +0530] "GET /AntiPhishingWeb/theme/css/bootstrap.min.css HTTP/1.1" 200 153402
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:23:48 +0530] "GET /AntiPhishingWeb/theme/css/styles.css HTTP/1.1" 200 225
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:23:48 +0530] "GET /AntiPhishingWeb/theme/js/bootstrap.bundle.min.js HTTP/1.1" 200 80217
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:23:48 +0530] "GET /AntiPhishingWeb/theme/js/jquery.min.js HTTP/1.1" 200 89476
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:24:00 +0530] "GET /AntiPhishingWeb/pages/index.jsp HTTP/1.1" 200 3439
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:24:00 +0530] "GET /AntiPhishingWeb/theme/js/jquery.min.js HTTP/1.1" 200 89476
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:24:00 +0530] "GET /AntiPhishingWeb/theme/css/bootstrap.min.css HTTP/1.1" 200 153402
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:24:00 +0530] "GET /AntiPhishingWeb/theme/js/bootstrap.bundle.min.js HTTP/1.1" 200 80217
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:24:00 +0530] "GET /AntiPhishingWeb/theme/css/styles.css HTTP/1.1" 200 225
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:24:00 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:24:24 +0530] "POST /AntiPhishingWeb/connector/ajax.jsp?methodId=checkURL HTTP/1.1" 200 8
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:25:04 +0530] "POST /AntiPhishingWeb/connector/ajax.jsp?methodId=checkURL HTTP/1.1" 200 8
+0:0:0:0:0:0:0:1 - - [04/Jun/2021:17:25:55 +0530] "POST /AntiPhishingWeb/connector/ajax.jsp?methodId=checkURL HTTP/1.1" 200 10
